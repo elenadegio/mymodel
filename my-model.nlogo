@@ -14,7 +14,7 @@ end
 
 to test
   setup
-  if count turtles != 10 [ error (word "There are " count turtles " instead of 5") ]
+  if count turtles != 10 [ error (word "There are " count turtles " instead of 10") ]
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
